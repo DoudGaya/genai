@@ -1,0 +1,62 @@
+// REACT NAV LOGIC 
+
+
+import pixar from '../assets/pixar.png'
+const navLinks = [
+    {
+        id: 1,
+        name: 'Explore'
+    },
+
+    {
+        id: 2,
+        name: 'Log In'
+    },
+
+    {
+        id: 3,
+        name: 'Join'
+    },
+    {
+        id: 4,
+        name: 'Upload '
+    },
+]
+
+const NavLink = ( { names } ) => {
+    return (
+        <>
+        <li className=' '>
+            <a href="" className='px-6 py-2 rounded-full'>
+                 {names.name}
+            </a>
+        </li>
+        </>
+    )
+}
+
+
+const links = navLinks.map((items) => {
+    return <NavLink names={items} key={items.id}  />
+})
+
+
+export const Navigation = () => {
+   
+   
+    return (
+        <>
+        <div className=" w-full flex justify-between px-10 py-4">
+            <div className=" text-2xl font-sans">
+                <img src={pixar} alt="" className=' h-8' srcSet="" />
+            </div>
+            <div className="">
+                <ul className=' flex'>
+                   {links}
+                </ul>
+            </div>
+
+        </div>
+        </>
+    )
+}
