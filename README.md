@@ -39,7 +39,7 @@ To run this project, you'll need:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/native-language-ai.git
+   git clone https://github.com/doudgaya/genai.git
    cd native-language-ai
    ```
 
@@ -100,7 +100,7 @@ We welcome contributions from the community to make this project better. Here's 
 
 If you encounter any issues or have feature requests, please open an issue:
 
-1. Go to the [Issues](https://github.com/yourusername/native-language-ai/issues) page.
+1. Go to the [Issues](https://github.com/doudgaya/genai/issues) page.
 2. Click on "New Issue".
 3. Provide a clear title and detailed description.
 
@@ -112,8 +112,8 @@ By participating in this project, you agree to uphold our [Code of Conduct](CODE
 
 If you need help, you can reach out via:
 
-- GitHub Discussions: [Discussions](https://github.com/yourusername/native-language-ai/discussions)
-- Email: [support@native-language-ai.com](mailto\:support@native-language-ai.com)
+- GitHub Discussions: [Discussions](https://github.com/doudgaya/genai/discussions)
+- Email: [support@native-language-ai.com](mailto\:doudgaya@gmail.com)
 
 ## License
 
@@ -129,8 +129,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Become a part of our growing community to shape the future of native language AI:
 
-- Follow us on [Twitter](https://twitter.com/native-language-ai)
-- Join our [Slack](https://join.slack.com/native-language-ai)
+- Follow us on [Twitter](https://x.com/doudgaya)
+- Join our [Slack](https://join.slack.com/genai)
 
 Together, let's make AI truly accessible to everyone.
 
